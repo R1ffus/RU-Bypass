@@ -5,3 +5,5 @@ online.sberbank.ru
 tbank.ru
 alfabank.ru
 vtb.ru
+ifconfig.me
+ipify.org
