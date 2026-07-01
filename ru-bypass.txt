@@ -90,7 +90,6 @@ rutube.video
 
 gismeteo.ru
 gismeteo.com
-2ip.io
 
 yandex.ru
 ya.ru
