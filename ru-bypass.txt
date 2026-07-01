@@ -52,3 +52,8 @@ boxberry.ru
 market.yandex.ru
 dns-shop.ru
 citilink.ru
+
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
