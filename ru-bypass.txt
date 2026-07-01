@@ -25,6 +25,7 @@ fe80::/10
 212.164.138.125
 212.164.138.130
 212.164.138.120
+185.71.67.111
 185.73.193.68
 185.73.194.82
 
@@ -84,6 +85,7 @@ www.rzd.ru
 pass.rzd.ru
 ticket.rzd.ru
 m.rzd.ru
+rzd-bonus.ru
 
 steampowered.com
 steamcommunity.com
