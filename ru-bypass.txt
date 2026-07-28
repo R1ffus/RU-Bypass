@@ -5,6 +5,8 @@
 100.64.0.0/10
 127.0.0.0/8
 169.254.0.0/16
+91.221.164.42
+178.248.238.72
 213.59.253.7
 213.59.254.7
 213.59.253.8
@@ -62,6 +64,8 @@ static.detmir.ru
 market.yandex.ru
 dns-shop.ru
 citilink.ru
+5ka.ru
+magnit.ru
 pochta.ru
 cdek.ru
 boxberry.ru
